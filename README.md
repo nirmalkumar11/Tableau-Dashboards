@@ -62,9 +62,6 @@ The purpose of this project is to:
 - Visual consistency
 - Responsive analytical storytelling
 
-
-## Dashboard Preview
-<img src="https://res.cloudinary.com/dlbuareax/image/upload/v1779697676/Screenshot_2026-05-25_at_11.58.46_xtjd9w.png" width=400/>
 ---
 
 ## Tools & Technologies Used
@@ -99,12 +96,8 @@ tableau-dashboard-project/
 
 ## Dashboard Preview
 
-### Desktop Dashboard Mockup
-(Add screenshot here)
-
-```markdown
-![Dashboard Preview](images/dashboard-preview.png)
-```
+## Dashboard Preview
+<img src="https://res.cloudinary.com/dlbuareax/image/upload/v1779700541/Gemini_Generated_Image_e48lnpe48lnpe48l_1_1_bqqrr8.png" width=400/>
 
 ---
 
@@ -133,7 +126,8 @@ This project can be used for:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/nirmalkumar11/tableau-dashboard-project.git
+git clone https://github.com/nirmalkumar11/Tableau-Dashboards.git
+
 ```
 
 ### Open in Tableau
